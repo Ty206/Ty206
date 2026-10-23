@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Tirrel 👋
 
-<!--
-**Ty206/Ty206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fuel tanker driver by trade — learning Android & APKs from the ground up.**
 
-Here are some ideas to get you started:
+- 🔭 Current mission: understand how apps are built, piece by piece
+- 📱 Studying: APK breakdowns, Android basics, and how GitHub works
+- 🎯 Goal: build my own video app the right way
+- 📍 Maryland
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working through
+- [ ] GitHub basics — repos, READMEs, commits
+- [ ] Reading APKs like an X-ray (permissions, signing, trackers)
+- [ ] Kotlin + Android Basics with Compose
+- [ ] My first app build
+
+> Learning in public, one lesson at a time.
